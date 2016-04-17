@@ -5,8 +5,8 @@ To load folder and bootstrap app please follow next steps:
 ```bash
 $ git clone https://github.com/Rostyy/mosaic.git to your local repository
 
-$ npm start
+$ node server.js
 
 should start on http://localhost:8765/
 ```
-## Or visit: https://sleepy-taiga-32143.herokuapp.com
+## Or visit: https://morning-sierra-82065.herokuapp.com/
