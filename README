@@ -1,18 +1,4 @@
-# Photo mosaic
-
-To load folder and bootstrap app please follow next steps:
-
-```bash
-$ git clone https://github.com/Rostyy/mosaic.git to your local repository
-
-$ npm start
-
-should start on http://localhost:8765/
-```
-## Or visit: https://sleepy-taiga-32143.herokuapp.com
-
-
-#### App was made from this task:
+App was made from this task:
 The goal of this task is to implement the following flow in a client-side app.
 1. A user selects a local image file.
 2. The app loads that image, divides the image into tiles, computes the average
